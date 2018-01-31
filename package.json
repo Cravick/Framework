@@ -1,0 +1,23 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "(package.json)",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cravick/Framework.git"
+  },
+  "author": "Dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cravick/Framework/issues"
+  },
+  "homepage": "https://github.com/Cravick/Framework#readme"
+}
